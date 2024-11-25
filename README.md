@@ -1,4 +1,4 @@
--- Configurações
+-- Configurações 
 local maxDistance = 10000 -- Distância máxima para detectar jogadores
 local highlightColor = Color3.fromRGB(255, 0, 0) -- Cor do destaque 
 
