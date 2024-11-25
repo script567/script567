@@ -2,7 +2,7 @@
 local maxDistance = 10000 -- Distância máxima para detectar jogadores
 local highlightColor = Color3.fromRGB(255, 0, 0) -- Cor do destaque 
 
--- Função para detectar jogadores
+-- Função para detectar jogadores 
 local function detectPlayers("100")
     local player = game.Players.LocalPlayer
     local character = player.Character or player.CharacterAdded:Wait()
